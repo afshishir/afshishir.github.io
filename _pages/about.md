@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# About
-
 Anowarul Faruk Shishir is a Lecturer in the Department of Computer Science and Engineering at BGMEA University of Fashion and Technology, Dhaka, Bangladesh. His research interests include Natural Language Processing (NLP), Cloud–Edge Computing, and Extended Reality (XR). He is particularly interested in designing scalable AI-driven systems that support real-time, privacy-aware, and immersive applications. 
 
 He completed his B.Sc. in Electronics and Communication Engineering from Khulna University of Engineering and Technology, graduating in the top 5% of his class.
