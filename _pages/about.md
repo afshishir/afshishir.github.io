@@ -28,7 +28,7 @@ He completed his B.Sc. in Electronics and Communication Engineering from Khulna 
 ## Updates
 
 ### 2026
-- Currently preparing two journal manuscripts: ***"Hierarchical Hybrid Workload Orchestration for Edge–Fog–Cloud CDN"**, **"Fast and Accurate Online Learning for Edge AI"***
+- Currently preparing two journal manuscripts: ***"Hierarchical Hybrid Workload Orchestration for Edge–Fog–Cloud CDN", "Fast and Accurate Online Learning for Edge AI"***
 
 ### 2025
 - Paper accepted for **ICCIT 2025** titled ***"PriBan: A Benchmark Dataset and Modeling Framework for Privacy Preservation in Bengali Texts"***.
