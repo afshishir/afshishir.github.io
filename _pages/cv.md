@@ -24,7 +24,7 @@ Bangladesh University
 
 **Khulna University of Engineering & Technology (KUET), Khulna, Bangladesh**  
 *Bachelor of Science in Electronics and Communication Engineering*  
-*2019 - 2024 | CGPA: 3.78 out of 4.00 | Position: 6th
+2019 - 2024 | CGPA: 3.78 out of 4.00 | Position: 6th
 
 **Coursework:** Machine Learning, Digital Image Processing, Wireless Network, Database System and Management, Computer Networks, Biomedical Engineering, Digital Signal Processing
 
@@ -32,17 +32,17 @@ Bangladesh University
 ## Publications
 
 ### **PriBan: A Benchmark Dataset and Modeling Framework for Privacy Preservation in Bengali Texts**    
-*ICCIT 2025 | 28th International Conference on Computer and Information Technology
+ICCIT 2025 | 28th International Conference on Computer and Information Technology
 - Developed a benchmark dataset and framework to preserve user privacy during interactions with large language models, addressing the tendency of LLMs to inadvertently leak sensitive information, with a specific focus on the Bangla language.
 
 ## Ongoing Research Projects
 
 ### **Hierarchical Hybrid Workload Orchestration for Edge–Fog–Cloud CDN**    
-*In Progress
+In Progress
 - Designing a multi-timescale forecasting and provisioning framework for CDN traffic using edge burst detection, fog-level mixture-of-experts forecasting, and cloud-assisted continual learning. Aims to reduce SLA violations, latency, and operational cost under non-stationary workloads.
 
 ### **Fast–Accurate Online Learning for Edge AI**    
-*In Progress
+In Progress
 - Developing a lightweight online learning algorithm that bridges the speed–accuracy gap between OS-ELM and OR-ELM. Enables stable edge inference under drift and bursty workloads for Edge AI applications.
 
 ## Thesis
