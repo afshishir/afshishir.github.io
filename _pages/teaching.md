@@ -4,9 +4,6 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-
-## Courses Taught
-
 In my current semester, I am teaching the following courses:
 
 ### Theory of Computation
