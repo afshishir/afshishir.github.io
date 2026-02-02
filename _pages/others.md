@@ -17,7 +17,7 @@ Exploring new places and experiencing different cultures rejuvenates me and prov
     <p style="font-style: italic; color: #666; margin-top: 10px;">Witnessing the serene beauty of Lachen, Sikkim, where the mountains meet the river.</p>
   </div>
   <div style="text-align: center;">
-    <img src="{{ site.baseurl }}/images/india 2.jpg" alt="Travel 2" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <img src="{{ site.baseurl }}/images/india 2.jpeg" alt="Travel 2" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
     <p style="font-style: italic; color: #666; margin-top: 10px;">A serene view from a park in Darjeeling, captured on a fog-laden morning</p>
   </div>
   <div style="text-align: center;">
