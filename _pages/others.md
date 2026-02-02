@@ -14,7 +14,7 @@ Exploring new places and experiencing different cultures rejuvenates me and prov
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 30px; margin: 40px 0;">
   <div style="text-align: center;">
     <img src="{{ site.baseurl }}/images/India.jpeg" alt="Travel 1" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <p style="font-style: italic; color: #666; margin-top: 10px;">Witnessing the serene beauty of Lachen, Sikkim, where the mountains meet the river.</p>
+    <p style="font-style: italic; color: #666; margin-top: 10px;">Witnessing the serene beauty of Lachung, Sikkim, where the mountains meet the river.</p>
   </div>
   <div style="text-align: center;">
     <img src="{{ site.baseurl }}/images/india 2.jpeg" alt="Travel 2" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
