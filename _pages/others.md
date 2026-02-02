@@ -17,12 +17,12 @@ Exploring new places and experiencing different cultures rejuvenates me and prov
 </div>
 
 <div style="text-align: center; margin-bottom: 40px;">
-  <img src="{{ site.baseurl }}/images/rag_tour.HEIC" alt="Travel" style="max-width: 80%; height: auto; margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <img src="{{ site.baseurl }}/images/rag_tour.jpg" alt="Travel" style="max-width: 80%; height: auto; margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   <p style="font-style: italic; color: #666;">Sunset at the hills - nature's masterpiece</p>
 </div>
 
 <div style="text-align: center; margin-bottom: 40px;">
-  <img src="{{ site.baseurl }}/images/tanguar.HEIC" alt="Travel" style="max-width: 80%; height: auto; margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <img src="{{ site.baseurl }}/images/tanguar.jpg" alt="Travel" style="max-width: 80%; height: auto; margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   <p style="font-style: italic; color: #666;">Adventure in the mountains</p>
 </div>
 
