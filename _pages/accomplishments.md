@@ -19,7 +19,7 @@ author_profile: true
   </div>
   
   <div style="text-align: center;">
-    <img src="{{ site.baseurl }}/images/GP Exlorers.jpg" alt="Award 3" style="width: 100%; height: 300px; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
+    <img src="{{ site.baseurl }}/images/GP Explorers.jpg" alt="Award 3" style="width: 100%; height: 300px; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
     <p style="font-style: italic; color: #666; margin-top: 10px;">Outstanding Research Contribution Award 2024</p>
   </div>
   
