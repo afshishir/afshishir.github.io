@@ -18,7 +18,10 @@ main:
     url: /projects/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/
+    
+  - title: "Accomplishments"
+    url: /accomplishments/
         
   - title: "Others"
     url: /others/
