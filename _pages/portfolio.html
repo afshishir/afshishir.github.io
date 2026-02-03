@@ -7,8 +7,54 @@ author_profile: true
 
 {% include base_path %}
 
+<style>
+  .project-item {
+    margin-bottom: 40px;
+    padding-bottom: 30px;
+    border-bottom: 1px solid #e0e0e0;
+  }
+  
+  .project-item:last-child {
+    border-bottom: none;
+  }
+  
+  .project-title {
+    color: #0066cc !important;
+    font-size: 1.5em;
+    font-weight: 600;
+    margin-bottom: 10px;
+  }
+  
+  .project-title:hover {
+    color: #0099ff !important;
+  }
+  
+  .project-tags {
+    font-style: italic;
+    color: #666;
+    margin-bottom: 15px;
+  }
+  
+  .project-description {
+    color: #333;
+    line-height: 1.6;
+  }
+</style>
 
 {% for post in site.portfolio %}
-  {% include archive-single.html %}
+  <div class="project-item">
+    <h2 class="project-title">
+      <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>
+    </h2>
+    
+    {% if post.excerpt %}
+      <p class="project-tags">{{ post.excerpt }}</p>
+    {% endif %}
+    
+    {% if post.content %}
+      <div class="project-description">
+        {{ post.content | strip_html | truncatewords: 50 }}
+      </div>
+    {% endif %}
+  </div>
 {% endfor %}
-
