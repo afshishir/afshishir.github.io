@@ -23,7 +23,7 @@ repository               : "afshishir/afshishir.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ICCIT_CROPED.JPG"
+  avatar           : "ICCIT_CROPED.jpg"
   name             : "Anowarul Faruk Shishir"
   pronouns         : "He/him" # example: "she/her"  
   bio              : "Lecturer, Dept. of CSE, BUFT"
