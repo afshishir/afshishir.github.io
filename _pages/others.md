@@ -31,24 +31,15 @@ Staying active is essential to maintaining balance in life. Sports help me stay 
 ---
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 30px; margin: 40px 0;">
   <div style="text-align: center;">
-    <img src="{{ site.baseurl }}/images/sports1.jpg" alt="Sports 1" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <p style="font-style: italic; color: #666; margin-top: 10px;">Cricket match with colleagues - team spirit at its best!</p>
+    <img src="{{ site.baseurl }}/images/Sports1.jpg" alt="Sports 1" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <p style="font-style: italic; color: #666; margin-top: 10px;">Semi-Finalist, Inter-Department Cricket Tournament</p>
   </div>
   <div style="text-align: center;">
-    <img src="{{ site.baseurl }}/images/sports2.jpg" alt="Sports 2" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <p style="font-style: italic; color: #666; margin-top: 10px;">Morning run - the perfect start to the day</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="{{ site.baseurl }}/images/sports3.jpg" alt="Sports 3" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <p style="font-style: italic; color: #666; margin-top: 10px;">Football weekend with friends</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="{{ site.baseurl }}/images/sports4.jpg" alt="Sports 4" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <p style="font-style: italic; color: #666; margin-top: 10px;">Badminton tournament victory!</p>
+    <img src="{{ site.baseurl }}/images/Sports2.jpg" alt="Sports 2" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <p style="font-style: italic; color: #666; margin-top: 10px;">Champion, Intra-Department Cricket Tournament (Man of the Tournament)</p>
   </div>
 </div>
 ---
 *"Life is a balance of work and play, research and adventure, focus and fun."*
 
-Give me code like this to make these images in the same size
 
