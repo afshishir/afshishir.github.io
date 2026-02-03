@@ -24,7 +24,7 @@ Bangladesh University
 
 **Khulna University of Engineering & Technology (KUET), Khulna, Bangladesh**  
 *Bachelor of Science in Electronics and Communication Engineering*  
-2019 - 2024 | CGPA: 3.78 out of 4.00 | Position: 6th
+2019 - 2024 | CGPA: 3.78 out of 4.00 (3.84 after IEE Evaluation) | Position: 6th | 
 
 **Coursework:** Machine Learning, Digital Image Processing, Wireless Network, Database System and Management, Computer Networks, Biomedical Engineering, Digital Signal Processing
 
