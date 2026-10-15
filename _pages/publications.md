@@ -6,24 +6,20 @@ author_profile: true
 
 ## Conference Papers
 
+### Online Sequential Extreme Learning Machine with Forgetting Factor and PCA-based Initial Weight Initialization for Time Series Forecasting
+Shuva Podder, **Anowarul Faruk Shishir**, Mirza Mohd. Shahriar Maswood  
+*IEEE 3rd International Conference on Computing, Applications and Systems (COMPAS 2026)*  
+IEEE
+
+### [Game-Based versus Training-Based Virtual Reality for Cognitive Rehabilitation in Mild Cognitive Impairment and Dementia: A Systematization of Design Paradigms, Outcomes, and Evaluation Rigor](https://scholar.google.com/scholar?oi=bibs&cluster=10669331899581648695&btnI=1&hl=en)
+**Anowarul Faruk Shishir**, M. Rasel Mahmud  
+*32nd ACM Symposium on Virtual Reality Software and Technology (VRST 2026)*  
+ACM (Accepted)
+
 ### PriBan: A Benchmark Dataset and Modeling Framework for Privacy Preservation in Bengali Texts
 **Anowarul Faruk Shishir**, Bishaw Kirti Chakma, Indrajit Gupta  
 *28th International Conference on Computer and Information Technology (ICCIT 2025)*  
 IEEE
-
----
-
-## Ongoing Research Projects
-
-### Hierarchical Hybrid Workload Orchestration for Edge–Fog–Cloud CDN
-*In Progress*
-
-Designing a multi-timescale forecasting and provisioning framework for CDN traffic using edge burst detection, fog-level mixture-of-experts forecasting, and cloud-assisted continual learning. Aims to reduce SLA violations, latency, and operational cost under non-stationary workloads.
-
-### Fast–Accurate Online Learning for Edge AI
-*In Progress*
-
-Developing a lightweight online learning algorithm that bridges the speed–accuracy gap between OS-ELM and OR-ELM. Enables stable edge inference under drift and bursty workloads for Edge AI applications.
 
 ---
 
