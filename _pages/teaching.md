@@ -4,7 +4,6 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-In my current semester, I am teaching the following courses:
 
 ### Theory of Computation
 **Course Code:** CSE 0541 3107  
