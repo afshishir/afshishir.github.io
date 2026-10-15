@@ -26,16 +26,16 @@ author:
   avatar           : "ICCIT2.jpg"
   name             : "Anowarul Faruk Shishir"
   pronouns         : "He/him" # example: "she/her"  
-  bio              : "Lecturer, Dept. of CSE, BUFT"
-  location         : "Dhaka, Bangladesh"
-  employer         : "BGMEA University of Fashion and Technology" #"Red Brick University"
+  bio              : "Ph.D. Student & Graduate Research Assistant, CS, KSU"
+  location         : "Marietta, Georgia, USA"
+  employer         : "Kennesaw State University" #"Red Brick University"
   uri              : # URL
-  email            : "anowarul.faruk@buft.edu.bd" 
+  email            : "anowarulfaruks@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=nh_NAEcAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : # URL
