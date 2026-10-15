@@ -10,17 +10,27 @@ redirect_from:
 
 ## Experience
 
-Lecturer   
-Department of Computer Science and Engineering   
-BGMEA University of Fashion & Technology (BUFT)  
+**Graduate Research Assistant**  
+Department of Computer Science  
+Kennesaw State University (KSU), Georgia, USA  
+August 2026 - Present
 
-Former Lecturer
-Department of Computer Science and Engineering   
+**Lecturer**  
+Department of Computer Science and Engineering  
+BGMEA University of Fashion & Technology (BUFT)  
+October 2025 - 2026
+
+**Former Lecturer**  
+Department of Computer Science and Engineering  
 Bangladesh University  
 
 ---
 
 ## Education
+
+**Kennesaw State University (KSU), Georgia, USA**  
+*Doctor of Philosophy (Ph.D.) in Computer Science*  
+August 2026 - Present
 
 **Khulna University of Engineering & Technology (KUET), Khulna, Bangladesh**  
 *Bachelor of Science in Electronics and Communication Engineering*  
@@ -31,19 +41,17 @@ Bangladesh University
 ---
 ## Publications
 
+### **Online Sequential Extreme Learning Machine with Forgetting Factor and PCA-based Initial Weight Initialization for Time Series Forecasting**    
+COMPAS 2026 | IEEE 3rd International Conference on Computing, Applications and Systems
+- Proposed an online sequential extreme learning machine that combines a forgetting factor with PCA-based initial weight initialization for time series forecasting.
+
+### **Game-Based versus Training-Based Virtual Reality for Cognitive Rehabilitation in Mild Cognitive Impairment and Dementia: A Systematization of Design Paradigms, Outcomes, and Evaluation Rigor**    
+VRST 2026 | 32nd ACM Symposium on Virtual Reality Software and Technology (Accepted)
+- Systematized research on game-based and training-based virtual reality for cognitive rehabilitation in mild cognitive impairment and dementia, comparing their design paradigms, reported outcomes, and evaluation rigor.
+
 ### **PriBan: A Benchmark Dataset and Modeling Framework for Privacy Preservation in Bengali Texts**    
 ICCIT 2025 | 28th International Conference on Computer and Information Technology
 - Developed a benchmark dataset and framework to preserve user privacy during interactions with large language models, addressing the tendency of LLMs to inadvertently leak sensitive information, with a specific focus on the Bangla language.
-
-## Ongoing Research Projects
-
-### **Hierarchical Hybrid Workload Orchestration for Edge–Fog–Cloud CDN**    
-In Progress
-- Designing a multi-timescale forecasting and provisioning framework for CDN traffic using edge burst detection, fog-level mixture-of-experts forecasting, and cloud-assisted continual learning. Aims to reduce SLA violations, latency, and operational cost under non-stationary workloads.
-
-### **Fast–Accurate Online Learning for Edge AI**    
-In Progress
-- Developing a lightweight online learning algorithm that bridges the speed–accuracy gap between OS-ELM and OR-ELM. Enables stable edge inference under drift and bursty workloads for Edge AI applications.
 
 ## Thesis
 
