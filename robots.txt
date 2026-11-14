@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://afshishir.github.io/sitemap.xml
